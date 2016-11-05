@@ -1,5 +1,5 @@
 Random questions I was asked way too many times
-Why did you do project X in a certain way? Why did you use technology Y, tool Z, etc? (project X was a side project or work project)
+Why did you do project X in a certain way? Why did you use technology Y, tool Z, etc? Isn't way Z a much better way to do it? (project X was a side project or work project)
 Tell me about yourself.
 So why are you pursuing CSBBA? What advantages does it have over CS? What's the end goal of this degree?
 What do you want get out of this work term?
