@@ -1,0 +1,19 @@
+Random questions I was asked way too many times
+Why did you do project X in a certain way? Why did you use technology Y, tool Z, etc? (project X was a side project or work project)
+Tell me about yourself.
+So why are you pursuing CSBBA? What advantages does it have over CS? What's the end goal of this degree?
+What do you want get out of this work term?
+What are your thoughts on our app/service?
+
+Random questions that I found to be amusing 
+On a scale of 1-10, how weird are you? (2A)
+Here's a pen. Tell me how you would test it (1B)
+Here's a pen. Write me a python class to model this pen (2A)
+So how many other jobs did you apply to? What were they? (1B)
+What other types of jobs did you apply to? (2A)
+Tell me something about yourself that's not on your resume (2A)
+Explain Etherium and Blockchain to me as if I knew nothing about them (2A)
+(Asked to someone I know) If we rank you highly, will you rank us highly (2A)
+
+Questions that I expected to be asked but was never asked
+Why should I hire you?
